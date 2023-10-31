@@ -134,7 +134,7 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 
 ## Bugs
-No known bugs at this time. 
+This code does not pass 100%, multiple unknown bugs exist.
 
 ## Original Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
@@ -146,4 +146,4 @@ Hillary Kiprotich - [Github](https://github.com/hillary-254)
 
 ---
 ## LAST UPDATED
-30th OCT 2023
+31th OCT 2023
