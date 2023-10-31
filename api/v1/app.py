@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""Contains the FileStorage class"""
+"""
+Contains the FileStorage class
+"""
 from flask import Flask, jsonify
 from models import storage
 from api.v1.views import app_views
